@@ -27,7 +27,7 @@ The accuracy on the validation set reached 89.35. Evaluation results on the test
 | 1 | 0.90 | 0.92 | 0.91 | 3733 |
 
 ###  Confusion Matrix
-[<img src="https://github.com/bangyiyangdev/BERT-Fine-Tuning-IMDB-Data/blob/main/confusion.pdf" width="500"/>]([https://github.com/bangyiyangdev/BERT-Fine-Tuning-IMDB-Data/blob/main/confusion.pdf](https://github.com/bangyiyangdev/BERT-Fine-Tuning-IMDB-Data/blob/main/confusion.pdf))
+[<img src="https://github.com/bangyiyangdev/BERT-Fine-Tuning-IMDB-Data/blob/main/confusion%20matrix.png" width="500"/>]([https://github.com/bangyiyangdev/BERT-Fine-Tuning-IMDB-Data/blob/main/confusion%20matrix.png](https://github.com/bangyiyangdev/BERT-Fine-Tuning-IMDB-Data/blob/main/confusion%20matrix.png))
 
 
 ## Comparing other ML Modeling
