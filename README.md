@@ -25,3 +25,12 @@ The accuracy on the validation set reached 89.35. Evaluation results on the test
 | --- | --- | --- |--- |--- |
 | 0 | 0.91 | 0.89 | 0.90 | 3705 |
 | 1 | 0.90 | 0.92 | 0.91 | 3733 |
+
+## Comparing other ML Modeling
+Comparing with other models
+
+| Model|      Accuracy      |  loss  | f1 score |
+| :--: | :----------------: | :----: | :------: |
+| Bert |       88.93%       | 0.4938 |  88.51%  |
+| LSTM |       77.20%       | 0.2757 |    /     |
+| CNN  |       71.99%       | 1.0485 |    /     |
